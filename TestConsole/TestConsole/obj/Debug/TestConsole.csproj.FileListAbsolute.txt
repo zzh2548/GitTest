@@ -1,0 +1,2 @@
+D:\项目\二炮项目\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+D:\项目\二炮项目\GitTest\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
